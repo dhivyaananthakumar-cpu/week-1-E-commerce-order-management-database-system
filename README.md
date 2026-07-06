@@ -43,5 +43,6 @@ Week 1 Deliverables
 - Name: A.Dhivya Dharshni
 -Department:2nd BCA(B)
 -College name: kamaraj College
- Conclusion
-This project provides the foundation for developing an efficient E-Commerce Order Management Database System by identifying business requirements and planning the database design.
+
+
+ 
